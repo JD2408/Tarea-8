@@ -157,3 +157,5 @@ Se caracteriza por que la corriente puede variar con el tiempo.
 
 - francolupio. (2003, May 5). Circuito RC. Monografias.com. https://www.monografias.com/trabajos12/circu/circu
 
+- Página, I. E. (n.d.). UNIVERSIDAD TECNICA DE COTOPAXI. Edu.Ec. Retrieved February 18, 2022, from http://repositorio.utc.edu.ec/bitstream/27000/867/1/T-UTC-0621.pdf
+
