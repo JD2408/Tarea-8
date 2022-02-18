@@ -4,8 +4,28 @@
 # Informe Ejercicios Capitulo 15 y 16
 ### Fundamento de circuitos Eléctricos 
 #### Ing. Darwin Omar Alulema Flores
-
 #### Integrantes: Padilla Kevin, Samueza David, Avilés Kevin
+
+## 1. OBJETIVOS
+
+***Objetivo General***
+- Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en circuitos serie y paralelo, para aplicar los conocimientos en diferentes leyes.
+
+***Objetivos Específicos***
+ 1. Definir y comprender lo que es un circuito serie y paralelo.
+ 2. Aplicar las diferentes leyes para encontrar corrientes y voltajes en circuitos complejos.
+ 3. Realizar ejercicios de conexión en serie y paralelo.
+  ## 2. MARCO TEÓRICO
+ 
+***Capitulo 5***
+![Circuitos-serie](https://user-images.githubusercontent.com/94129932/143504394-6102300c-a96c-41d0-b1b1-294de2d02d48.png)
+
+
+***Capitulo 6***
+
+![Untitled Workspace (2)](https://user-images.githubusercontent.com/94129932/143504302-10a0f62e-236e-44cf-a838-65aea14ca2cb.png)
+
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 ### CAPÍTULO 15
   *SECCIÓN 15–1 El sistema de los números complejos *
   
