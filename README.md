@@ -9,12 +9,16 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
-- Analizar el comportamiento de la corriente, voltaje, potencia y resitencia en circuitos serie y paralelo, para aplicar los conocimientos en diferentes leyes.
+- Conozer los circuitos RC y RL, poder encontrar en sus diferentes etapas de carga y descarga, así como también complementarlo con un análisis matemático para corroborarlo con la teoria.
 
 ***Objetivos Específicos***
- 1. Definir y comprender lo que es un circuito serie y paralelo.
- 2. Aplicar las diferentes leyes para encontrar corrientes y voltajes en circuitos complejos.
- 3. Realizar ejercicios de conexión en serie y paralelo.
+ 1. Definir y comprender la diferencia entre circuito RC Y RL.
+ 2. Comprender los anàlisis de circuitos en paralelo y serie en los circuitos RC y RL.
+ 3. RAnalizar dinámicamente las oscilaciones electromagnéticas en el circuito RLC
+sin fuente de energía externa.
+ 4. Estudio de las características de circuitos RC y RL. Respuesta para tensiones cuadradas
+y sinusoidales. Impedancia y admitancia inductiva.
+
   ## 2. MARCO TEÓRICO
  
 ***Capitulo 15***
@@ -129,3 +133,27 @@ potencia aparente.
 *61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95
 ![image](https://user-images.githubusercontent.com/94129932/154600840-4919cca2-dfd2-41f7-bc39-63399f9c46c0.png)
+
+
+
+ ## 4. VIDEOS
+
+### CAPÍTULO 5
+
+https://www.youtube.com/watch?v=VJT2TZcmaiA
+
+### CAPÍTULO 6
+
+https://youtu.be/rOsyeTT6o4A
+
+## 5. CONCLUSIONES
+- Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.  
+Se caracteriza por que la corriente puede variar con el tiempo.
+- Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+- En los circuitos RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+
+## 6. BIBLIOGRAFIA
+- Unknown, & Perfil, V. T. mi. (n.d.). circuitos RC,RL,RLC. Blogspot.Com. Retrieved February 18, 2022, from http://omar-fuentesrap.blogspot.com/2012/06/los-circuitos-rc-son-circuitos-que.html
+
+- francolupio. (2003, May 5). Circuito RC. Monografias.com. https://www.monografias.com/trabajos12/circu/circu
+
