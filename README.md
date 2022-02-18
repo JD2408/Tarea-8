@@ -47,6 +47,8 @@ Magnitud o Módulo y el ángulo
 puntos del problema 3.
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
+![image](https://user-images.githubusercontent.com/94129932/154760246-e14da216-2f40-4baf-9fe7-2ac177d04912.png)
+
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
 ![image](https://user-images.githubusercontent.com/94129932/154599508-6f176101-b6ca-426b-bc02-b28b396af485.png)
 ![image](https://user-images.githubusercontent.com/94129932/154599518-c1fdcb14-4e44-4050-85fa-aba37c55958d.png)
