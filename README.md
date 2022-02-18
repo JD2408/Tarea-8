@@ -138,11 +138,11 @@ de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia d
 
  ## 4. VIDEOS
 
-### CAPÍTULO 5
+### CAPÍTULO 15
 
 https://www.youtube.com/watch?v=VJT2TZcmaiA
 
-### CAPÍTULO 6
+### CAPÍTULO 16
 
 https://youtu.be/rOsyeTT6o4A
 
