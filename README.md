@@ -10,15 +10,15 @@
   *SECCIÓN 15–1 El sistema de los números complejos *
   
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
-![image](https://user-images.githubusercontent.com/94129932/154599356-c6b267f4-e25f-427d-814a-613c6adee39c.png)
-![image](https://user-images.githubusercontent.com/94129932/154599368-9b2ae240-4cd3-4358-ad29-2979271fd44f.png)
-![image](https://user-images.githubusercontent.com/94129932/154599377-99531fbd-7a49-4a21-a5d4-e35e41585094.png)
-![image](https://user-images.githubusercontent.com/94129932/154599390-b8d794a4-9919-42a7-b5e7-ad629b62cfcc.png)
+
+Dado un número complejo en su forma binómica z=a+bi las dos características principales son:
+Magnitud o Módulo y el ángulo
 
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
-![image](https://user-images.githubusercontent.com/94129932/154599418-31c1ca8a-839a-4aff-9d70-86cab46f51b3.png)
-![image](https://user-images.githubusercontent.com/94129932/154599433-818eaf69-973f-49f7-a64b-788fc8c95e8c.png)
-![image](https://user-images.githubusercontent.com/94129932/154599443-e80fa70c-9651-40fd-840e-9c5135e20951.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154606676-9a45ae69-ff41-43c4-8bde-1b7354e40cfb.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154606604-17398ca7-c1b9-4563-a2c2-40ceb3d77fbf.png)
 
 *5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los
 puntos del problema 3.
