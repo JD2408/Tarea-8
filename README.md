@@ -17,13 +17,12 @@
  3. Realizar ejercicios de conexión en serie y paralelo.
   ## 2. MARCO TEÓRICO
  
-***Capitulo 5***
-![Circuitos-serie](https://user-images.githubusercontent.com/94129932/143504394-6102300c-a96c-41d0-b1b1-294de2d02d48.png)
+***Capitulo 15***
+![image](https://user-images.githubusercontent.com/93794279/154693284-c62afdcc-cb4f-4c64-93f5-b232ef7cd8b5.png)
 
 
-***Capitulo 6***
-
-![Untitled Workspace (2)](https://user-images.githubusercontent.com/94129932/143504302-10a0f62e-236e-44cf-a838-65aea14ca2cb.png)
+***Capitulo 16***
+![image](https://user-images.githubusercontent.com/93794279/154696060-3908b8fc-446a-484b-8143-90cfc1569f51.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 ### CAPÍTULO 15
