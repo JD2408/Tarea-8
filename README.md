@@ -144,10 +144,18 @@ través del resistor? ¿A través del capacitor?
 - la frecuencia del voltaje a través del capacitor es 8kHz
 
   *SECCIÓN 15–3 Impedancia de circuitos RC en serie *
+  
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como
 rectangular.
+
 ![image](https://user-images.githubusercontent.com/94129932/154599922-d6067f72-d170-45ce-9a59-80e51aadd8b7.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155020032-a44e60d3-e89a-4562-9cb5-13444749535b.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/154599939-43401671-d91f-4df0-b9cf-d59165194622.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155020741-523971bc-dee3-422b-8d49-e7f0db036405.png)
+
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada
 una de las siguientes frecuencias:
 ![image](https://user-images.githubusercontent.com/94129932/154600049-4958660d-c165-48e9-94e6-4fada14a8825.png)
