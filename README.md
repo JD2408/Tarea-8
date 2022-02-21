@@ -136,8 +136,13 @@ D)
 ![image](https://user-images.githubusercontent.com/94129932/155006557-61798020-e349-4ff6-8ea3-c4df522dc5bf.png)
 
   *SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie *
+  
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a
 través del resistor? ¿A través del capacitor?
+
+- La frecuencia del voltaje a través del resitor es 8kHz
+- la frecuencia del voltaje a través del capacitor es 8kHz
+
   *SECCIÓN 15–3 Impedancia de circuitos RC en serie *
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como
 rectangular.
