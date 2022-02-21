@@ -184,8 +184,26 @@ total:
 
 ![image](https://user-images.githubusercontent.com/94129932/154600089-3f715e3e-0bec-44ad-96cd-836eb51a11a3.png)
 
+A)
+
+![image](https://user-images.githubusercontent.com/94129932/155024222-e1140f77-f2b5-4973-9cb5-f4cbfd255faf.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/155024665-db04a4b9-9b6f-4450-bc18-a95b5e018154.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155025146-6663a602-542c-4d6d-9e8e-3ab24efd46af.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155025561-3ee5ff0a-7551-457c-917a-4e4aca353170.png)
+
   *SECCIÓN 15–4 Análisis de circuitos RC en serie *
+ 
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
 ![image](https://user-images.githubusercontent.com/94129932/154600162-7e49b9e0-d250-4f3d-a257-ef8dbfb6a437.png)
