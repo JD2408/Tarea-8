@@ -204,6 +204,8 @@ D)
  
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
 
+![image](https://user-images.githubusercontent.com/94129932/155027452-007aec9e-c831-4933-b767-7994e75195d7.png)
+
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
 ![image](https://user-images.githubusercontent.com/94129932/154600162-7e49b9e0-d250-4f3d-a257-ef8dbfb6a437.png)
