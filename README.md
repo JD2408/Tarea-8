@@ -50,10 +50,22 @@ puntos del problema 3.
 ![image](https://user-images.githubusercontent.com/94129932/154760246-e14da216-2f40-4baf-9fe7-2ac177d04912.png)
 
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
+
 ![image](https://user-images.githubusercontent.com/94129932/154599508-6f176101-b6ca-426b-bc02-b28b396af485.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154991080-cc874cee-6d65-4da0-bec3-7aeb5b22fda1.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/154599518-c1fdcb14-4e44-4050-85fa-aba37c55958d.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154991438-6ff3f7c4-c0c8-442f-8050-57344bd4f074.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/154599526-b9d3b273-8f7a-4c9d-a02a-46e1350c4158.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154991744-830d550f-2b78-4131-a25a-3962789c1bd8.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/154599541-77e12c35-d9fc-4a4d-8c30-5c0addfc5119.png)
+
+![image](https://user-images.githubusercontent.com/94129932/154991920-e9697d0e-85cc-4b86-89f8-226a5df27d76.png)
 
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
