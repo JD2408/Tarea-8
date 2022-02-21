@@ -81,9 +81,20 @@ d)![image](https://user-images.githubusercontent.com/94129932/154995973-8ff04b7a
 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
 
 ![image](https://user-images.githubusercontent.com/94129932/154599592-83c40139-a7c6-40ed-a1f8-ca48bb60fbc7.png)
+
+A) Se mantiene la misma expresión polar 12 ∠ 115°
+
 ![image](https://user-images.githubusercontent.com/94129932/154599608-542467df-5812-4142-9bda-301108e91c5c.png)
+
+B) Al ángulo negativo le sumamos 360° lo cual nos queda: 20 ∠ 230°
+
 ![image](https://user-images.githubusercontent.com/94129932/154599631-9be53d5b-f44d-4797-9738-0d81d5be9284.png)
+
+C) Al ángulo negativo le sumamos 360° lo cual nos queda: 100 ∠ 190°
+
 ![image](https://user-images.githubusercontent.com/94129932/154599645-90e2c684-15e7-4567-b794-942aa8cd7e6b.png)
+
+D) Al ángulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 15. Realice las siguientes sustracciones:
 
