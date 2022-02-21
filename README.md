@@ -212,52 +212,74 @@ A)
 
 
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
+
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
 ![image](https://user-images.githubusercontent.com/94129932/154600162-7e49b9e0-d250-4f3d-a257-ef8dbfb6a437.png)
 ![image](https://user-images.githubusercontent.com/94129932/154600175-4e67fac6-902d-46e3-bffc-1e0142ae091a.png)
+
 *33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90
 para satisfacer los siguientes requerimientos: Preal  400 W y un factor de potencia de adelanto (Itot
 aparece adelantada con respecto a Vs).
+
 ![image](https://user-images.githubusercontent.com/94129932/154600271-ad5e65f9-8b08-4dc8-bf83-b39e430a4d3b.png)
+
 35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta
 para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos
 de 1 kHz.
+
 37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura
 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs  10 V rms y f  1 kHz.
 
   *SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo *
+  
 41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
 
   *SECCIÓN 15–6 Análisis de circuitos RC en paralelo *
+ 
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
+
 ![image](https://user-images.githubusercontent.com/94129932/154600457-c670d738-2885-4f90-9f93-5a5ae61b4314.png)
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
+
 ![image](https://user-images.githubusercontent.com/94129932/154600490-ec69b81f-5190-4105-9213-0dd0ee51545c.png)
 
 *47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
+
 ![image](https://user-images.githubusercontent.com/94129932/154600522-660f45c6-f4c1-454d-8439-f74807c68717.png)
 
 
   *SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo *
+ 
 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama
 fasorial de voltaje.
+
 51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes
 en forma polar. Trace el diagrama fasorial de corriente.
+
 ![image](https://user-images.githubusercontent.com/94129932/154600654-1cd6ed0f-b1d4-4563-8baf-c8c8f85140f3.png)
 
 *53. Determine el valor de C2 en la figura 15-102 cuando VA  VB.
+
 ![image](https://user-images.githubusercontent.com/94129932/154600696-dff273c8-e464-413a-b876-06eeb08681df.png)
+
 *55. Encuentre la corriente a través de cada componente en la figura 15-103.
+
 ![image](https://user-images.githubusercontent.com/94129932/154600746-7fd079d2-6997-4878-baa6-6914201c605a.png)
 
   *SECCIÓN 15–8 Potencia en circuitos RC *
+  
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
+
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+
 *61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95
+
 ![image](https://user-images.githubusercontent.com/94129932/154600840-4919cca2-dfd2-41f7-bc39-63399f9c46c0.png)
 
 
