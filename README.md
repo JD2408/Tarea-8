@@ -100,6 +100,21 @@ D) Al ángulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 ![image](https://user-images.githubusercontent.com/94129932/154599676-38a13018-b94b-4f47-8799-736cc3369ea7.png)
 
+A)
+
+![image](https://user-images.githubusercontent.com/94129932/154999509-2f484c9a-2b83-4b47-807a-2b340108d882.png)
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/154999849-ced084dd-f090-4e64-b849-c4a4c47502fa.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155001469-68d5b56e-fddb-4d9a-a280-861d86299175.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155002833-51e666c2-7fc7-43d8-9835-348389d99fe2.png)
+
 17. Realice las siguientes divisiones:
 
 ![image](https://user-images.githubusercontent.com/94129932/154599711-7085149d-3803-4ce5-829c-a5fce8cbd632.png)
