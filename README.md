@@ -158,10 +158,30 @@ rectangular.
 
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada
 una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/94129932/155021042-35393508-d80d-42df-be19-bdf93726a1a7.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/154600049-4958660d-c165-48e9-94e6-4fada14a8825.png)
+
+A)
+
+![image](https://user-images.githubusercontent.com/94129932/155022682-4671fee6-d5c2-4473-ab8c-3ba2e75eff6c.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/155022805-67598177-5977-484e-8b3b-596b4f67505e.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155022974-2fd0b932-cfcd-400f-b49a-922dfb4cbf9f.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155023104-9dbc1bb4-5f59-45ff-b7ad-074389576fe2.png)
 
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia
 total:
+
 ![image](https://user-images.githubusercontent.com/94129932/154600089-3f715e3e-0bec-44ad-96cd-836eb51a11a3.png)
 
   *SECCIÓN 15–4 Análisis de circuitos RC en serie *
