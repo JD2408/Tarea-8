@@ -45,6 +45,7 @@ Magnitud o Módulo y el ángulo
 
 *5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los
 puntos del problema 3.
+
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
 
 ![image](https://user-images.githubusercontent.com/94129932/154760246-e14da216-2f40-4baf-9fe7-2ac177d04912.png)
@@ -69,16 +70,27 @@ puntos del problema 3.
 
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
 
+a) ![image](https://user-images.githubusercontent.com/94129932/154994764-0867f436-b5cb-40f1-9f4b-8eb4ba0405ac.png)
+
+b)![image](https://user-images.githubusercontent.com/94129932/154995215-df202507-5369-4332-bcd6-688b0267bc49.png)
+
+c)![image](https://user-images.githubusercontent.com/94129932/154995557-8f880c96-4cff-4515-80de-2a39c67d2645.png)
+
+d)![image](https://user-images.githubusercontent.com/94129932/154995973-8ff04b7a-c8ad-4318-b8f7-f915ba9ce50f.png)
+
 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
 ![image](https://user-images.githubusercontent.com/94129932/154599592-83c40139-a7c6-40ed-a1f8-ca48bb60fbc7.png)
 ![image](https://user-images.githubusercontent.com/94129932/154599608-542467df-5812-4142-9bda-301108e91c5c.png)
 ![image](https://user-images.githubusercontent.com/94129932/154599631-9be53d5b-f44d-4797-9738-0d81d5be9284.png)
 ![image](https://user-images.githubusercontent.com/94129932/154599645-90e2c684-15e7-4567-b794-942aa8cd7e6b.png)
 
 15. Realice las siguientes sustracciones:
+
 ![image](https://user-images.githubusercontent.com/94129932/154599676-38a13018-b94b-4f47-8799-736cc3369ea7.png)
 
 17. Realice las siguientes divisiones:
+
 ![image](https://user-images.githubusercontent.com/94129932/154599711-7085149d-3803-4ce5-829c-a5fce8cbd632.png)
 
   *SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie *
