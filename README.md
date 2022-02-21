@@ -119,6 +119,22 @@ D)
 
 ![image](https://user-images.githubusercontent.com/94129932/154599711-7085149d-3803-4ce5-829c-a5fce8cbd632.png)
 
+A)
+
+![image](https://user-images.githubusercontent.com/94129932/155004331-a8002c48-a839-49b0-9c54-45aacac3e2fd.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/155004639-d46c6bb4-210e-4a89-a114-e55457bbc4fb.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155005451-3f5ae67e-c9b3-41d4-8718-8a2fcbe48e57.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155006557-61798020-e349-4ff6-8ea3-c4df522dc5bf.png)
+
   *SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie *
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a
 través del resistor? ¿A través del capacitor?
