@@ -207,8 +207,27 @@ D)
 ![image](https://user-images.githubusercontent.com/94129932/155027452-007aec9e-c831-4933-b767-7994e75195d7.png)
 
 A)
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
 
-![image](https://user-images.githubusercontent.com/94129932/155029415-e0fc217d-0156-46db-9a98-25a270386ee3.png)
+![image](https://user-images.githubusercontent.com/94129932/155033703-2358f6b3-d4f6-4458-a982-25d39a505243.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155033509-2c5dda54-f0ba-4047-aeed-7753e87486a1.png)
+
+B)
+
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/94129932/155035118-c1552c37-6945-4dcb-b1f5-32dad9b96726.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155037584-198304c0-7830-4720-8d03-13daf9d7c254.png)
+
+C)
+
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/94129932/155038800-25d8814d-aeb4-4ff5-b4f6-87b020fc79c0.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155039213-36111ed5-c43f-461e-bfa4-a963e19e507d.png)
 
 
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
