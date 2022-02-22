@@ -284,9 +284,19 @@ Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cu
 37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura
 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
 
+![image](https://user-images.githubusercontent.com/94129932/155069855-fd74ea17-b373-4c1e-b654-ec6139dedef2.png)
+
+Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cual nos queda:
+
+![image](https://user-images.githubusercontent.com/94129932/155069893-a2242ba2-2eff-4461-a345-44c0cbb7551c.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155070167-5c3b19bb-cd67-4a6d-a63b-767b61fd3ff7.png)
 
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs  10 V rms y f  1 kHz.
 
+![image](https://user-images.githubusercontent.com/94129932/155072389-0e2ecb14-f93a-43b7-bab4-96436c712848.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155074453-54f9bbf6-a0e5-4c61-a9a5-6c9b6984c780.png)
 
   *SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo *
   
