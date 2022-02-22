@@ -302,6 +302,14 @@ Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cu
   
 41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
 
+![image](https://user-images.githubusercontent.com/94129932/155074684-9e5ac0e0-8367-4fbf-81ae-2c0b9442202c.png)
+
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/94129932/155075267-a2678d09-e173-4843-9d27-8d7e51507e11.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155076440-db324fd6-7072-42e2-ae23-363e07b07d88.png)
+
   *SECCIÓN 15–6 Análisis de circuitos RC en paralelo *
  
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
