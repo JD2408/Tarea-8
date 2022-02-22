@@ -310,11 +310,15 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 ![image](https://user-images.githubusercontent.com/94129932/155076440-db324fd6-7072-42e2-ae23-363e07b07d88.png)
 
+![image](https://user-images.githubusercontent.com/94129932/155080201-66873bd7-c7c6-4295-ae7b-0c9ae51eddd3.png)
+
   *SECCIÓN 15–6 Análisis de circuitos RC en paralelo *
  
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
 ![image](https://user-images.githubusercontent.com/94129932/154600457-c670d738-2885-4f90-9f93-5a5ae61b4314.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155080248-e4218572-c62f-4abd-8c97-553a2303f30e.png)
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
