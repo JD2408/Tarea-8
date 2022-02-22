@@ -264,6 +264,12 @@ aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/94129932/154600271-ad5e65f9-8b08-4dc8-bf83-b39e430a4d3b.png)
 
+Los elementos dispuestos en serie que deben ser instalados en el bloque son: un capacitor y una resistencia, ya que de esta forma se cumple con un circuito RC.
+Por lo tanto procedemos a realizar el cálculo para determinar el valor del capacitor:
+
+![image](https://user-images.githubusercontent.com/94129932/155059676-2f158d01-bff0-4dcd-b84a-2aab13976939.png)
+
+El capacitor es de 13.27 uF y ademas en el bloque debe constar una resistencia de 12 ohm.
 
 35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta
 para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos
