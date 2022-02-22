@@ -229,6 +229,7 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 ![image](https://user-images.githubusercontent.com/94129932/155039213-36111ed5-c43f-461e-bfa4-a963e19e507d.png)
 
+![image](https://user-images.githubusercontent.com/94129932/155040482-cbffed64-dbea-4945-a526-cfa6d7f095b9.png)
 
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
 
