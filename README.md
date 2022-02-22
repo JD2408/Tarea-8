@@ -347,16 +347,33 @@ E)
 
 ![image](https://user-images.githubusercontent.com/94129932/154600522-660f45c6-f4c1-454d-8439-f74807c68717.png)
 
+Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
+![image](https://user-images.githubusercontent.com/94129932/155177041-d0e5238b-bac2-44a8-b0f7-739ae24656f6.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155191123-e938a00c-4695-4790-8986-86ff768c6b2e.png)
+![image](https://user-images.githubusercontent.com/94129932/155191181-36b907c1-f957-4cb4-80f5-d99a334b5a25.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155191732-fc7ddbf1-5592-4843-9f46-cdc605e4177c.png)
 
   *SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo *
  
-49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama
-fasorial de voltaje.
+49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/94129932/155192093-30fb7a71-da3b-488f-a0b5-cc60f8c751e9.png)
+
 
 51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes
 en forma polar. Trace el diagrama fasorial de corriente.
 
 ![image](https://user-images.githubusercontent.com/94129932/154600654-1cd6ed0f-b1d4-4563-8baf-c8c8f85140f3.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155202807-bd9b069e-3335-46b1-896e-31298cad973b.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155205121-8cf99820-c892-4870-bd72-941bd376fc40.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155211367-c378f28f-9859-42b7-bf8b-f3659d14f9f0.png)
+![image](https://user-images.githubusercontent.com/94129932/155211407-3b0709d3-f9ba-463a-8f97-e695d878b340.png)
 
 *53. Determine el valor de C2 en la figura 15-102 cuando VA  VB.
 
