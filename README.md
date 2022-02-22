@@ -233,16 +233,37 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 29. Repita el problema 28 para el circuito de la figura 15-86, con f  5 kHz.
 
+![image](https://user-images.githubusercontent.com/94129932/155040775-c1bdc059-774e-4e3f-8290-c0e0a6481da6.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155042095-be531e46-0d96-4c5c-aa98-d21c5df72c77.png)
+
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
 
 ![image](https://user-images.githubusercontent.com/94129932/154600162-7e49b9e0-d250-4f3d-a257-ef8dbfb6a437.png)
 ![image](https://user-images.githubusercontent.com/94129932/154600175-4e67fac6-902d-46e3-bffc-1e0142ae091a.png)
+
+A) 
+
+![image](https://user-images.githubusercontent.com/94129932/155044287-fe79676c-fd63-42ae-8540-306deba58abf.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/155044305-e861d730-fbca-48db-8ca4-b95b45b2b409.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155044740-50eaff4c-d743-4217-80a2-997fc0dbc4f0.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155045547-c2384026-d3b8-4dd8-ab7b-c6936d4c7e87.png)
 
 *33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90
 para satisfacer los siguientes requerimientos: Preal  400 W y un factor de potencia de adelanto (Itot
 aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/94129932/154600271-ad5e65f9-8b08-4dc8-bf83-b39e430a4d3b.png)
+
 
 35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta
 para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos
