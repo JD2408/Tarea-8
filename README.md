@@ -379,21 +379,18 @@ en forma polar. Trace el diagrama fasorial de corriente.
 
 ![image](https://user-images.githubusercontent.com/94129932/154600696-dff273c8-e464-413a-b876-06eeb08681df.png)
 
-*55. Encuentre la corriente a través de cada componente en la figura 15-103.
-
-![image](https://user-images.githubusercontent.com/94129932/154600746-7fd079d2-6997-4878-baa6-6914201c605a.png)
+![image](https://user-images.githubusercontent.com/94129932/155213635-77201284-1caa-4749-b3e2-81acf7f2f816.png)
 
   *SECCIÓN 15–8 Potencia en circuitos RC *
   
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
+![image](https://user-images.githubusercontent.com/94129932/155214347-03e1c0b8-36a6-48ad-b48c-b7fd40a94b74.png)
+
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
-*61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
-de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95
-
-![image](https://user-images.githubusercontent.com/94129932/154600840-4919cca2-dfd2-41f7-bc39-63399f9c46c0.png)
+![image](https://user-images.githubusercontent.com/94129932/155216024-5f96d693-3612-4354-be95-b73c170913b5.png)
 
 ### CAPÍTULO 16
 
