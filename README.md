@@ -378,15 +378,98 @@ de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia d
 
 ![image](https://user-images.githubusercontent.com/94129932/154600840-4919cca2-dfd2-41f7-bc39-63399f9c46c0.png)
 
+### CAPÍTULO 16
+
+*SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie*
+
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
+VL?
+ 
+15 KHz
+
+*SECCIÓN 16–2 Impedancia de circuitos RL en serie*
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+[![Imagen1.png](https://i.postimg.cc/br2bVvWm/Imagen1.png)](https://postimg.cc/64tyyB9Z)
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+[![Imagen2.png](https://i.postimg.cc/52ccRkYg/Imagen2.png)](https://postimg.cc/4m1FKP1H)
+
+[![Imagen3.png](https://i.postimg.cc/9QHSpRKN/Imagen3.png)](https://postimg.cc/KRQJczZn)
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+ 
+[![Imagen4.png](https://i.postimg.cc/zvjjFvg4/Imagen4.png)](https://postimg.cc/LgJLHHvV)
+
+
+*SECCIÓN 16–3 Análisis de circuitos RL en serie*
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+[![Imagen4.png](https://i.postimg.cc/zvjjFvg4/Imagen4.png)](https://postimg.cc/LgJLHHvV)
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+[![Imagen5.png](https://i.postimg.cc/CKhwc6Xt/Imagen5.png)](https://postimg.cc/bZ5XJLzH)
+
+a) [![Imagen6.png](https://i.postimg.cc/fbV9RKfV/Imagen6.png)](https://postimg.cc/LqMXyj7S)
+
+b) [![Imagen7.png](https://i.postimg.cc/pXP5FxBb/Imagen7.png)](https://postimg.cc/JtdzffgP)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+[![Imagen8.png](https://i.postimg.cc/Kc0x022y/Imagen8.png)](https://postimg.cc/NL230ZFN)
+
+[![Imagen9.png](https://i.postimg.cc/mgCxWx0k/Imagen9.png)](https://postimg.cc/gxzt37cb)
+
+la inductancia incrementa
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+(a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+[![Imagen10.png](https://i.postimg.cc/3xnqTKtK/Imagen10.png)](https://postimg.cc/k2RsNdrZ)
+
+[![Imagen11.png](https://i.postimg.cc/C1PDhQWn/Imagen11.png)](https://postimg.cc/R6tqGXCv)
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+(a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+ 
+ [![Imagen12.png](https://i.postimg.cc/qBmVrxgf/Imagen12.png)](https://postimg.cc/pyn1Y8Dk)
+ 
+ [![Imagen13.png](https://i.postimg.cc/XNPHxHpv/Imagen13.png)](https://postimg.cc/vDWtZv7R)
+ 
+ 
+ *SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo*
+ 
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+ 
+[![Imagen14.png](https://i.postimg.cc/Qx527G0D/Imagen14.png)](https://postimg.cc/rKVZ6HBZ)
+ 
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+ 
+[![Imagen15.png](https://i.postimg.cc/DzD65mwM/Imagen15.png)](https://postimg.cc/Ny6RjsT6)
+ 
+ 
+*SECCIÓN 16–5 Análisis de circuitos RL en paralelo*
+ 
+23. Determine las siguientes cantidades en la figura 16-65:
+
+[![Imagen16.png](https://i.postimg.cc/W4rqL47K/Imagen16.png)](https://postimg.cc/f3zRYDpj)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+[![Imagen17.png](https://i.postimg.cc/ncrqCpkR/Imagen17.png)](https://postimg.cc/gn9x7918)
+
+[![Imagen18.png](https://i.postimg.cc/VNKYrQ4g/Imagen18.png)](https://postimg.cc/McjkNLCf)
 
 
  ## 4. VIDEOS
 
-### CAPÍTULO 15
 
 https://www.youtube.com/watch?v=VJT2TZcmaiA
 
-### CAPÍTULO 16
 
 https://youtu.be/rOsyeTT6o4A
 
