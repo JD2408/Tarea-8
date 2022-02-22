@@ -310,8 +310,6 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 
 ![image](https://user-images.githubusercontent.com/94129932/155076440-db324fd6-7072-42e2-ae23-363e07b07d88.png)
 
-![image](https://user-images.githubusercontent.com/94129932/155080201-66873bd7-c7c6-4295-ae7b-0c9ae51eddd3.png)
-
   *SECCIÓN 15–6 Análisis de circuitos RC en paralelo *
  
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
@@ -323,6 +321,27 @@ Simplificamos el circuito con los conocimientos de resistencias y capacitores ta
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/94129932/154600490-ec69b81f-5190-4105-9213-0dd0ee51545c.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155081337-b7a3054c-8a18-4cf3-bebb-a4c7bf9ebad1.png)
+ A)
+ 
+ ![image](https://user-images.githubusercontent.com/94129932/155083727-91b0a2c0-d4d5-4684-b132-75dafe26015a.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/94129932/155083759-13a30d9d-2f5f-4cba-85b4-e61abc4f0d54.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/94129932/155083813-0c93b488-bf1a-4781-8f77-9d16cbed0bdb.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/94129932/155083847-b2fd292b-8e3c-4aad-a131-3dc36a1ab2eb.png)
+
+E)
+
+![image](https://user-images.githubusercontent.com/94129932/155083882-9ed2359c-f036-42a4-bffd-5dd1a4eae1eb.png)
 
 *47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
