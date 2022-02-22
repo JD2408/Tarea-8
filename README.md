@@ -277,16 +277,13 @@ de 1 kHz.
 
 ![image](https://user-images.githubusercontent.com/94129932/155060150-1bef082e-e083-4462-ac8e-19177f3403f0.png)
 
-37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura
-15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
-
 Expresamos la fórmula del voltaje de salida en función de la frecuencia, la cual nos queda:
 
 ![image](https://user-images.githubusercontent.com/94129932/155064818-42479a9a-3245-4f34-bd8c-c0c73ad4587a.png)
 
-Ahora procedemos a reemplazar con los valores de frecuencia para poder graficar.
+37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura
+15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
 
-![image](https://user-images.githubusercontent.com/94129932/155068292-5f216c8b-4193-4099-82a6-5b2ba3c96933.png)
 
 39. Repita el problema 38 para el circuito de la figura 15-92. Vs  10 V rms y f  1 kHz.
 
